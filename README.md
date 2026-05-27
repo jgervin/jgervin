@@ -28,7 +28,7 @@ I’m exploring how product teams can use AI to move faster without skipping the
 - RAG and knowledge systems
 - AI-powered internal tools
 - Product operations
-- Marketplaces and logistics
+- Marketplaces
 - Retail Marketing
 - SaaS platforms
 - Data-heavy enterprise products
