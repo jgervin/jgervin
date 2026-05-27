@@ -34,11 +34,6 @@ I’m exploring how product teams can use AI to move faster without skipping the
 - Data-heavy enterprise products
 - Marketing, adTech, and customer acquisition systems
 
-## How I Think About AI Products
-
-AI is not the product by itself.
-
-The product is the workflow improvement, the better decision, the faster task completion, the reduced cost, the improved customer experience, or the new capability that was not possible before.
 
 ## About Me
 
